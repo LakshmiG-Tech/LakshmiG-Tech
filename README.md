@@ -6,4 +6,3 @@ Aspiring AI / Backend Developer
 - RAG systems  
 - AI-powered APIs  
 - Vector database projects  
--->
